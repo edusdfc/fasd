@@ -1,6 +1,6 @@
 ﻿gradio==4.43.0
 torch==2.5.0
-torchaudio==2.1.1
+torchaudio==2.2.0
 faster-whisper==1.0.1
 coqui-tts[languages]==0.24.2
 pypinyin
@@ -30,6 +30,7 @@ requests
 pysubs2
 whisperx
 silero-tts
+
 
 
 
