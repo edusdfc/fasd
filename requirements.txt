@@ -1,5 +1,5 @@
 ﻿gradio==4.43.0
-torch==2.1.1
+torch==2.3.0
 torchaudio==2.1.1
 faster-whisper==1.0.1
 coqui-tts[languages]==0.24.2
@@ -30,3 +30,4 @@ requests
 pysubs2
 whisperx
 silero-tts
+
