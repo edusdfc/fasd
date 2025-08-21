@@ -1,7 +1,7 @@
 ﻿gradio==4.43.0
 torch==2.2.0,<=2.3.0
 torchaudio==2.2.0,<=2.3.0
-faster-whisper==1.0.1
+faster-whisper==1.1.0
 coqui-tts[languages]==0.24.2
 pypinyin
 hangul_romanize
@@ -31,6 +31,7 @@ pysubs2
 whisperx
 silero-tts
 pydantic>=2.0.0
+
 
 
 
