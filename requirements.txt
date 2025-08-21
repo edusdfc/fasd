@@ -30,6 +30,8 @@ requests
 pysubs2
 whisperx
 silero-tts
+pydantic>=2.0.0
+
 
 
 
