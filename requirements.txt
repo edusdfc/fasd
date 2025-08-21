@@ -31,6 +31,8 @@ pysubs2
 whisperx
 silero-tts
 pydantic>=2.0.0
+tokenizers==0.15.2
+
 
 
 
